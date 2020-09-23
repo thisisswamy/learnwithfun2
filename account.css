@@ -1,0 +1,33 @@
+body{
+    margin:0;
+    padding: 0;
+    background-image:url(pic.jpg);
+    background-position: center;
+    font-family: sans-serif;
+    background-size:cover;
+    color: white;
+}
+
+.body{
+    width: 500px;
+    height: 300px;
+    border-style: groove;
+    border-color: red;
+    text-align: center;
+    padding-top:5ch;
+    margin-top: 10ch;
+    margin-left:20ch;
+    border-radius: 50px;
+
+}
+.body input[type="button"]{
+    background-color: red;
+    color:white;
+    font-weight: bold;
+}
+h1{
+    font-size: 3.5ch;
+    padding-top: 2ch;
+    padding-left: 2ch;
+    font-family: sans-serif;
+}
